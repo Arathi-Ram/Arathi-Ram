@@ -1,15 +1,14 @@
-Hello World ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) 
-My name is Arathi Ramdas
+Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Arathi Ramdas
 =====================================================================================================================================
 
-Full-stack Developer
+Full stack Developer
 --------------------
 
 I have a passion for coding solutions to problems. Turning coffee into code is what I do best.
 
 * 🌍  I'm based in Dubai, UAE.
 * ✉️  You can contact me at [arathiramdas07@gmail.com](mailto:arathiramdas07@gmail.com)
-* 🧠  I'm currently learning C#
+* 🧠  I'm learning C#
 
 ### Skills
 
@@ -29,6 +28,6 @@ I have a passion for coding solutions to problems. Turning coffee into code is w
 
 <a href="http://www.github.com/arathi-ram"><img src="https://github-readme-stats.vercel.app/api?username=arathi-ram&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="arathi-ram's GitHub stats" /></a>
 
-<b>Top Repositories</b>
+<a href="http://www.github.com/arathi-ram"><img src="https://github-readme-streak-stats.herokuapp.com/?user=arathi-ram&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
 
-<div width="100%" align="center"><a href="https://github.com/arathi-ram/MediaStreamingApp" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=arathi-ram&repo=MediaStreamingApp&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a><a href="https://github.com/arathi-ram/Kerala_Tourism_Website" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=arathi-ram&repo=Kerala_Tourism_Website&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br />
+<a href="https://github.com/arathi-ram" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=arathi-ram&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
