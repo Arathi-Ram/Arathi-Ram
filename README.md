@@ -1,14 +1,14 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Arathi Ramdas
+![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)Hello World! My name is Arathi Ramdas.
 =====================================================================================================================================
 
-Full stack Developer
+Fullstack Developer
 --------------------
 
 I have a passion for coding solutions to problems. Turning coffee into code is what I do best.
 
 * 🌍  I'm based in Dubai, UAE.
 * ✉️  You can contact me at [arathiramdas07@gmail.com](mailto:arathiramdas07@gmail.com)
-* 🧠  I'm learning C#
+* 🧠  I'm currently learning C#
 
 ### Skills
 
